@@ -1,0 +1,35 @@
+{"model_key": "mm2012", "identifier_type": "model_number", "identifier_value": "A1347", "is_primary": true, "confidence_level": "oficial", "source_key": "src_apple_mm2012"}
+{"model_key": "mm2012", "identifier_type": "model_identifier", "identifier_value": "Macmini6,1", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mm2012_i5"}
+{"model_key": "mm2012", "identifier_type": "emc", "identifier_value": "2570", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mm2012_i5"}
+{"model_key": "mbp13_2014", "identifier_type": "model_number", "identifier_value": "A1502", "is_primary": true, "confidence_level": "oficial", "notes": "A-number compartilhado com Late 2013 e Early 2015 — não usar isoladamente para identificar o modelo.", "source_key": "src_everymac_mbp_faq"}
+{"model_key": "mbp13_2014", "identifier_type": "model_identifier", "identifier_value": "MacBookPro11,1", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mbp_2014"}
+{"model_key": "mbp13_2014", "identifier_type": "emc", "identifier_value": "2875", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mbp_2014"}
+{"model_key": "mbp13_2015", "identifier_type": "model_number", "identifier_value": "A1502", "is_primary": true, "confidence_level": "oficial", "notes": "A-number compartilhado com Late 2013 e Mid 2014 — Model Identifier/EMC/placa distintos.", "source_key": "src_everymac_mbp_2015"}
+{"model_key": "mbp13_2015", "identifier_type": "model_identifier", "identifier_value": "MacBookPro12,1", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mbp_2015"}
+{"model_key": "mbp13_2015", "identifier_type": "emc", "identifier_value": "2835", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mbp_2015"}
+{"model_key": "mb12_2016", "identifier_type": "model_number", "identifier_value": "A1534", "is_primary": true, "confidence_level": "oficial", "notes": "A-number reaproveitado em 2015, 2016 e 2017 — cada ano com Model Identifier e EMC próprios.", "source_key": "src_apple_mb_2016"}
+{"model_key": "mb12_2016", "identifier_type": "model_identifier", "identifier_value": "MacBook9,1", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mb_faq"}
+{"model_key": "mb12_2016", "identifier_type": "emc", "identifier_value": "2991", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mb_faq"}
+{"model_key": "mb12_2017", "identifier_type": "model_number", "identifier_value": "A1534", "is_primary": true, "confidence_level": "oficial", "notes": "A-number reaproveitado — mesmo código do Early 2015 e Early 2016.", "source_key": "src_apple_mb_2017"}
+{"model_key": "mb12_2017", "identifier_type": "model_identifier", "identifier_value": "MacBook10,1", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mb_faq"}
+{"model_key": "mb12_2017", "identifier_type": "emc", "identifier_value": "3099", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mb_faq"}
+{"model_key": "mba13_m2", "identifier_type": "model_number", "identifier_value": "A2681", "is_primary": true, "confidence_level": "oficial", "source_key": "src_apple_mba_m2_repair"}
+{"model_key": "mba13_m2", "identifier_type": "model_identifier", "identifier_value": "Mac14,2", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mba_m2"}
+{"model_key": "mba13_m2", "identifier_type": "emc", "identifier_value": "4074", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mba_m2"}
+{"model_key": "mm_m1", "identifier_type": "model_number", "identifier_value": "A2348", "is_primary": true, "confidence_level": "oficial", "source_key": "src_apple_mm_m1"}
+{"model_key": "mm_m1", "identifier_type": "model_identifier", "identifier_value": "Macmini9,1", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mm_m1"}
+{"model_key": "mm_m1", "identifier_type": "emc", "identifier_value": "3569", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_mm_m1"}
+{"model_key": "imac24_m1", "identifier_type": "model_number", "identifier_value": "A2438", "is_primary": true, "confidence_level": "oficial", "notes": "Variante de 4 portas Thunderbolt/USB4; a variante de 2 portas usa A2439/EMC 3664.", "source_key": "src_apple_imac_m1_repair"}
+{"model_key": "imac24_m1", "identifier_type": "model_identifier", "identifier_value": "iMac21,1", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_imac_m1"}
+{"model_key": "imac24_m1", "identifier_type": "emc", "identifier_value": "3663", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_imac_m1"}
+{"model_key": "imacpro2017", "identifier_type": "model_number", "identifier_value": "A1862", "is_primary": true, "confidence_level": "fonte_secundaria", "source_key": "src_everymac_imacpro"}
+{"model_key": "imacpro2017", "identifier_type": "model_identifier", "identifier_value": "iMacPro1,1", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_imacpro"}
+{"model_key": "imacpro2017", "identifier_type": "emc", "identifier_value": "3144", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_imacpro"}
+{"model_key": "macstudio_m1max", "identifier_type": "model_number", "identifier_value": "A2615", "is_primary": true, "confidence_level": "fonte_secundaria", "notes": "A-number compartilhado entre as configurações M1 Max e M1 Ultra do Mac Studio 2022.", "source_key": "src_everymac_macstudio_ids"}
+{"model_key": "macstudio_m1max", "identifier_type": "model_identifier", "identifier_value": "Mac13,1", "confidence_level": "fonte_secundaria", "source_key": "src_everymac_macstudio_ids"}
+{"model_key": "macpro2019", "identifier_type": "model_number", "identifier_value": "A1991", "is_primary": true, "confidence_level": "fonte_secundaria", "notes": "Configuração Tower; a variante Rack usa A2304/EMC 3413.", "source_key": "src_apple_macpro_identify"}
+{"model_key": "macpro2019", "identifier_type": "model_identifier", "identifier_value": "MacPro7,1", "confidence_level": "fonte_secundaria", "source_key": "src_apple_macpro_identify"}
+{"model_key": "macpro2019", "identifier_type": "emc", "identifier_value": "3203", "confidence_level": "fonte_secundaria", "source_key": "src_apple_macpro_identify"}
+{"model_key": "mbp14_m5_2026", "identifier_type": "model_number", "identifier_value": "A3246", "is_primary": true, "confidence_level": "fonte_secundaria", "source_key": "src_apple_mbp_m5_2026"}
+{"model_key": "mbp14_m5_2026", "identifier_type": "model_identifier", "identifier_value": "Mac17,9", "confidence_level": "fonte_secundaria", "source_key": "src_apple_mbp_m5_2026"}
+{"model_key": "mbp14_m5_2026", "identifier_type": "emc", "identifier_value": "8934", "confidence_level": "fonte_secundaria", "source_key": "src_apple_mbp_m5_2026"}

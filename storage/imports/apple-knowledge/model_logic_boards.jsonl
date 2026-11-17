@@ -1,0 +1,8 @@
+{"model_key": "mm2012", "board_key": "board_mm2012_i5", "compatibility_notes": "Configuração i5 padrão; a config. i7/Server usa 820-3228-A.", "source_key": "src_everymac_mm2012_i5"}
+{"model_key": "mbp13_2014", "board_key": "board_mbp_820_3536", "compatibility_notes": "Board compartilhada com o Late 2013 (EMC 2678); este registro é Mid 2014 (EMC 2875).", "source_key": "src_witcomputers_820_3536"}
+{"model_key": "mbp13_2015", "board_key": "board_mbp_820_4924", "source_key": "src_beetstech_820_4924"}
+{"model_key": "mb12_2016", "board_key": "board_mb_820_00244", "source_key": "src_everymac_mb_faq"}
+{"model_key": "mb12_2017", "board_key": "board_mb_820_00687", "source_key": "src_everymac_mb_faq"}
+{"model_key": "mba13_m2", "board_key": "board_mba_820_02536", "source_key": "src_everymac_mba_m2"}
+{"model_key": "mm_m1", "board_key": "board_mm_820_02091", "source_key": "src_everymac_mm_m1"}
+{"model_key": "imac24_m1", "board_key": "board_imac_820_02009", "source_key": "src_everymac_imac_m1"}
